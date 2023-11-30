@@ -1,0 +1,9 @@
+# Mac files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+#txt
+streamlit run command.txt
